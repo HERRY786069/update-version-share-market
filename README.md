@@ -1,5 +1,5 @@
 # update-version-share-market
-nazim4321raza@gmail.com
+
 import numpy as np
 import pandas as pd
 import matplotlip.pyplot as plt
